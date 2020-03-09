@@ -1,0 +1,2 @@
+# cncompetitiveprogrammingresources
+给有志于参加ACM，蓝桥杯，NOI/NOIP的同学准备的，给有志于提升自己编程技能的同学准备的
